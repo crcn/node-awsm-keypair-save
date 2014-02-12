@@ -1,0 +1,22 @@
+{
+  "name": "awsm-keypair-save",
+  "version": "0.0.2",
+  "description": "node-awsm-keypair-save ======================",
+  "main": "./lib/index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/crcn/node-awsm-keypair-save.git"
+  },
+  "author": "",
+  "license": "BSD-2-Clause",
+  "bugs": {
+    "url": "https://github.com/crcn/node-awsm-keypair-save/issues"
+  },
+  "dependencies": {
+    "outcome": "0.0.18",
+    "mkdirp": "~0.3.5"
+  }
+}
