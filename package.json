@@ -1,6 +1,6 @@
 {
   "name": "awsm-keypair-save",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "description": "node-awsm-keypair-save ======================",
   "main": "./lib/index.js",
   "scripts": {
